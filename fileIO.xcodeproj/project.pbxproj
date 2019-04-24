@@ -16,8 +16,8 @@
 		3DF47328226D328200F63B04 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
+			dstPath = usr/share/man/man1;
+			dstSubfolderSpec = 10;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 1;
@@ -26,7 +26,6 @@
 
 /* Begin PBXFileReference section */
 		3DB1F398226FD329001D93A6 /* FileReadWrite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileReadWrite.swift; sourceTree = "<group>"; };
-		3DB1F39B226FDFF5001D93A6 /* CryptoSwift-master */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "CryptoSwift-master"; path = "../../Downloads/CryptoSwift-master"; sourceTree = "<group>"; };
 		3DF4732A226D328200F63B04 /* fileIO */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = fileIO; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DF4732D226D328200F63B04 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3DF47334226D32AD00F63B04 /* ConsoleIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsoleIO.swift; sourceTree = "<group>"; };
@@ -46,7 +45,6 @@
 		3DB1F39A226FDFF5001D93A6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3DB1F39B226FDFF5001D93A6 /* CryptoSwift-master */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

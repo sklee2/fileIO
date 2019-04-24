@@ -8,7 +8,7 @@
 
 import Foundation
 
-//print("Hello, World!")
+print("Hello, World!")
 //let consoleIO = ConsoleIO()
 //print("당신의 이름은 무엇입니까?")
 //var str = consoleIO.getInput()
